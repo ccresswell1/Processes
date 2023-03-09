@@ -30,7 +30,7 @@ Email [Rheem](mailto:Canada.Warranty@Rheem.com) to validate that the tank is sti
 
 <br>
 
-- Enter a W01 (Warranty Credit) return order in M3 with an additional Warranty charge of $45
+- Enter a W01 (Warranty Credit) return order in M3 with an additional Warranty charge of $45*
 - Enter 'Z-CLAIMS' when prompted for a bin location
 - Enter an appropriate customer order type for the new tank (C01, C02 C04). 
 - Retain the serial number sticker from the box of the new tank
@@ -42,6 +42,18 @@ Email [Rheem](mailto:Canada.Warranty@Rheem.com) to validate that the tank is sti
 <br>
 
 Fill out a Rheem warranty (WRF) form with the info from step 1 + the new serial number from step 3
+
+<br>
+
+## 5. Create Claim to supplier
+
+<br>
+
+Follow the steps in [Create claim to supplier](/Warranty/Create_claim_to_supplier.md)
+
+<br>
+
+## 6. Create a claim in iwarranty
 
 <br>
 
